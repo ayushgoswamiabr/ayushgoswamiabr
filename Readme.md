@@ -5,7 +5,7 @@
 <!-- <br>
 <a href=""><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>&nbsp;
 <a href=""><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp; -->
-<a href="https://www.linkedin.com/in/ayushgoswamiabr/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/ayushgoswamiabr/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedIn" /></a>&nbsp;
 <a href="mailto:ayushgoswami.abr@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 </p>
 
@@ -17,7 +17,7 @@
 - 🌱 I’m currently learning MERN Stack Development.
 - 👯 I’m looking to collaborate with other Developers 
 - 💬 Ask me about anything, I am happy to help 
-- 📬 How to reach me: [Let's get in touch!][linkedin]
+- 📬 How to reach me: <a href="https://www.linkedin.com/in/ayushgoswamiabr/">Let's get in touch!</a>
 - 🧗 I try to: Go beyond and push the bounds
 - ⚡ Fun fact: I love connecting with different people 
 
