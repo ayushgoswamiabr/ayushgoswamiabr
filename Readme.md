@@ -48,7 +48,7 @@
 
 ### :zap: Github Stats
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=ayushgoswamiabr&show_icons=true&theme=radical" width="60%" alt="GitHub Stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushgoswamiabr" width="37%" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushgoswamiabr&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Top Languages">
   
 
 
