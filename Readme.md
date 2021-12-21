@@ -13,15 +13,13 @@
 
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-### I am a Systems Engineer Specialist at Infosys
-- 🔭 I’m currently working on my Portfolio Website :grin:
+### I am a Student at National Institute of Technology Raipur
 - 🌱 I’m currently learning MERN Stack Development.
-- 👯 I’m looking to collaborate with other Developers :wink:
-- 🥅 2020 Goals: Contribute to Open Source projects
-- 💬 Ask me about anything, I am happy to help :smile:
+- 👯 I’m looking to collaborate with other Developers 
+- 💬 Ask me about anything, I am happy to help 
 - 📬 How to reach me: [Let's get in touch!][linkedin]
 - 🧗 I try to: Go beyond and push the bounds
-- ⚡ Fun fact: I love connecting with different people :raised_hands:
+- ⚡ Fun fact: I love connecting with different people 
 
 <br>
 
@@ -47,3 +45,10 @@
 <br>
 <br>
 <br>
+
+### :zap: Github Stats
+
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushgoswamiabr" alt="Github Stats" width="60%">
+  
+
+
