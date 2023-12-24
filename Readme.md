@@ -14,7 +14,7 @@
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 ### I am a Student at National Institute of Technology Raipur
-- 🌱 I’m currently learning MERN Stack Development.
+- 🌱 I have experience in MERN Stack Development.
 - 👯 I’m looking to collaborate with other Developers 
 - 💬 Ask me about anything, I am happy to help 
 - 📬 How to reach me: <a href="https://www.linkedin.com/in/ayushgoswamiabr/">Let's get in touch!</a>
